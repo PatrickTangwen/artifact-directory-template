@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+MedDash - Decoding Health Metrics to Enhance Patient Care
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
